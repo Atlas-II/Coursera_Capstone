@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera Data Science Prefessional Certificate Capstone
+Coursera Data Science Professional Certificate Capstone
